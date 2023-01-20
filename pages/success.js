@@ -25,7 +25,7 @@ const Success = () => {
         <h2>Gracias por tu compra!</h2>
         <p className='email-msg'>Comprueba tu correo para ver la factura de compra.</p>
         <p className='description'>Si tienes alguna pregunta, mándanos un mail a 
-          <a className='email' href='mailto:krst221@gmail.com'></a>
+          <a className='email' href='mailto:krst221@gmail.com'>krst221@gmail.com</a>
         </p>
         <Link href='/'>
           <button
