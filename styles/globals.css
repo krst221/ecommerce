@@ -664,10 +664,12 @@ a {
   }
   .product-detail-container{
     flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
   }
   .product-detail-container .product-detail-image{
-    width: 330px;
-    height: 330px;
+    width: 310px;
+    height: 310px;
   }
   .cart-container{
     width: 350px;
