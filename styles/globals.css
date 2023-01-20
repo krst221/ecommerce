@@ -603,8 +603,8 @@ a {
   }
   .hero-banner-image{
     width: 47%;
-    height: 32%;
-    top: 0%;
+    height: 24%;
+    top: 4%;
     right: 0%;
     object-fit: fill;
   }
@@ -619,8 +619,8 @@ a {
     margin-top: 80px;
   }
   .footer-banner-image{
-    width: 47%;
-    left: 53%;
+    width: 40%;
+    left: 63%;
     top: 0%;
     object-fit: fill;
   }
