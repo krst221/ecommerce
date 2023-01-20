@@ -533,19 +533,19 @@ padding: 30px 65px;
 }
 .quantity-desc{
   border: 1px solid gray;
-padding: 6px;
+  padding: 6px;
 }
 .quantity-desc span{
-  font-size: 16px;
+  font-size: 16x;
   padding: 6px 12px;
   cursor: pointer;
 }
 .quantity-desc .minus{
-  border-right: 1px solid gray;
   color: #f02d34;
 }
 .quantity-desc .num{
   border-right: 1px solid gray;
+  border-left: 1px solid gray;
   font-size: 20px;
 }
 .quantity-desc .plus{
